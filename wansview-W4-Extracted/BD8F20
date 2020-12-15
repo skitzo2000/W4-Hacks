@@ -1,0 +1,12 @@
+[hardware_ptz_632]
+ptzmaxstepsize_x=4000
+ptzmaxstepsize_y=1400
+
+[hardware_ptz_633]
+ptzmaxstepsize_x=8000
+ptzmaxstepsize_y=1000
+
+[hardware_ptz_636]
+ptzmaxstepsize_x=3800
+ptzmaxstepsize_y=1200
+

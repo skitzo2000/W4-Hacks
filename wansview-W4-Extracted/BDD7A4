@@ -1,0 +1,10 @@
+#ssid=test_123
+#pwd=123456789
+#security=11
+#WPAPSK From SmartLink 20160322
+ctrl_interface=/var/run/wpa_supplicant
+update_config=1
+network={
+	ssid="test_123"
+	psk="123456789"
+}
